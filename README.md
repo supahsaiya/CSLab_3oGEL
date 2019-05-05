@@ -19,6 +19,8 @@
  9. Αυτόματο πότισμα γλαστρών</br>
 10. Αυτόματα φώτα αιθουσών</br>
 
+<b>Όλοι οι κώδικες βρίσκονται στο φάκελο ¨code"</b>
+
 ## 01. Διαχείριση δεξαμενής πετρελαίου
 
 ### ΠΕΡΙΛΗΨΗ 
@@ -29,17 +31,26 @@
 
 |Περιγραφή|Ενδεικτική Εικόνα|Ποσότητα|Ενδεικτικό Κόστος (με ΦΠΑ)|
 | --- | --- | --- | ---|
-| NodeMCU Lolin v3 | ![Nodemcu_Lolin](https://user-images.githubusercontent.com/40848626/57192799-05a68c80-6f3d-11e9-9967-1a382de641c1.jpg) | 1 | 9,90€ |
+| NodeMCU Lolin v3 | ![Nodemcu_Lolin](https://user-images.githubusercontent.com/40848626/57192799-05a68c80-6f3d-11e9-9967-1a382de641c1.jpg) | 2 | 9,90€ |
 | Display 16X2 Character LCD 3.3V Blue |  ![LCD_16X2_Blue](https://user-images.githubusercontent.com/40848626/57192811-5f0ebb80-6f3d-11e9-820a-e4dc4aed4ac7.jpg) | 1 | 4.20€ |
 | I2C LCD Backpack for 1602 | ![lcd1602_i2c](https://user-images.githubusercontent.com/40848626/57192815-7188f500-6f3d-11e9-91bd-6310c2555edb.jpg) | 1 | 8,00€ |
 | Ultrasonic Sensor HC-SR04  |  ![UltraSonic_sr04s](https://user-images.githubusercontent.com/40848626/57192823-7cdc2080-6f3d-11e9-9f1b-9d1340f1c5ea.jpg) | 1 | 2.50€ |
 |Breadboard mini | ![breadboard_mini](https://user-images.githubusercontent.com/40848626/57192824-806fa780-6f3d-11e9-92fa-7371e7a49538.jpg) | 1 | 1.60€ |
 | Καλώδια σύνδεσης | - | - | 1,00€ |
-|  |  | Σύνολο | 27,2€ |
+|  |  | Σύνολο | 37,1€ |
 
 στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη 
-
+<b> για το συγκεκριμένο έργο χρησιμοποιήσαμε 2 NodeMCU ως server και client,συνεπώς υπάρχουν δύο διαφορετικοί κώδικες.</b>
 ### ΚΥΚΛΩΜΑ
+
+##### Client
+
+![01_OK_Diesel_Client_bb](https://user-images.githubusercontent.com/40848626/57197825-90ef4480-6f74-11e9-8e18-ff707798a207.jpg)
+
+
+##### Server
+
+![01_OK_Diesel_Server_bb](https://user-images.githubusercontent.com/40848626/57197826-9187db00-6f74-11e9-8c6c-1c5452488b51.jpg)
 
 ### ΦΩΤΟΓΡΑΦΙΕΣ 
 
@@ -62,6 +73,11 @@
 Το προτζεκτ αυτό θα μπορούσε να χρησιμοποιηθεί σε δημόσιες και ιδιωτικές υπηρεσίες εξοικονομώντας χρόνο και κάνοντας ευκολότερο τον προγραμματισμό των εξόδων της εταιρίας (πχ για ανεφοδιασμό πετρελαίου).  
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
+1. Nodemcu Datasheet
+https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
+
+2.Ultrasonic HC-SR04 Datasheet
+https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 
 ## 02. Απεικόνιση θερμοκρασίας και υγρασίας εξωτερικού και εσωτερικού χώρου 
 
@@ -74,19 +90,24 @@
 
 |Περιγραφή|Ενδεικτική Εικόνα|Ποσότητα|Ενδεικτικό Κόστος (με ΦΠΑ)|
 | --- | --- | --- | ---|
-| NodeMCU Lolin v3 | ![Nodemcu_Lolin](https://user-images.githubusercontent.com/40848626/57192799-05a68c80-6f3d-11e9-9967-1a382de641c1.jpg) | 1 | 9,90€ |
+| NodeMCU Lolin v3 | ![Nodemcu_Lolin](https://user-images.githubusercontent.com/40848626/57192799-05a68c80-6f3d-11e9-9967-1a382de641c1.jpg) | 2 | 9,90€ |
 | Display 16X2 Character LCD 3.3V Blue |  ![LCD_16X2_Blue](https://user-images.githubusercontent.com/40848626/57192811-5f0ebb80-6f3d-11e9-820a-e4dc4aed4ac7.jpg) | 1 | 4.20€ |
 | I2C LCD Backpack for 1602 | ![lcd1602_i2c](https://user-images.githubusercontent.com/40848626/57192815-7188f500-6f3d-11e9-91bd-6310c2555edb.jpg) | 1 | 8,00€ |
-| Αισθητήρας Υγρασίας & Θερμοκρασίας DHT11  | ![DHT11-800x800](https://user-images.githubusercontent.com/40848626/57193021-a138fc80-6f3f-11e9-8211-7f98522ae8fb.jpg) | 1 | 1,90€  |
+| Αισθητήρας Υγρασίας & Θερμοκρασίας DHT11  | ![DHT11-800x800](https://user-images.githubusercontent.com/40848626/57193021-a138fc80-6f3f-11e9-8211-7f98522ae8fb.jpg) | 2 | 1,90€  |
 |Breadboard mini | ![breadboard_mini](https://user-images.githubusercontent.com/40848626/57192824-806fa780-6f3d-11e9-92fa-7371e7a49538.jpg) | 1 | 1.60€ |
 | Καλώδια σύνδεσης | - | - | 1,00€ |
-|  |  | Σύνολο | 26,60€  |
+|  |  | Σύνολο | 40,30€  |
 
 στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη 
-
-### ΥΛΟΠΟΙΗΣΗ ΚΑΤΑΣΚΕΥΗΣ 
+<b> για το συγκεκριμένο έργο χρησιμοποιήσαμε 2 NodeMCU ως server και client,συνεπώς υπάρχουν δύο διαφορετικοί κώδικες.</b>
 
 ### ΚΥΚΛΩΜΑ 
+
+##### Client
+![02_OK_Temperature_Client_bb](https://user-images.githubusercontent.com/40848626/57197827-9187db00-6f74-11e9-816a-8f8b906b8eb0.jpg)
+
+##### Server
+![02_OK_Temperature_Server_bb](https://user-images.githubusercontent.com/40848626/57197828-92207180-6f74-11e9-9857-7076f9a4759d.jpg)
 
 ### ΦΩΤΟΓΡΑΦΙΕΣ 
 
@@ -103,6 +124,11 @@
 Το συγκεκριμένο προτζεκτ θα μπορούσε να χρησιμοποιηθεί σε συνδυασμό με το amazon echo ενημερώνοντας τον χρήστη οποιαδήποτε στιγμή για το επίπεδο υγρασίας και τη θερμοκρασία σε κάποιο απομονωμένο χώρο  
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
+1. Nodemcu Datasheet
+https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
+
+2. DHT11 Datasheet
+https://cdn-learn.adafruit.com/downloads/pdf/dht.pdf
 
 
 ## 03. Ανιχνευτής Σεισμού 
@@ -126,9 +152,9 @@
 
 στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη 
 
-### ΥΛΟΠΟΙΗΣΗ ΚΑΤΑΣΚΕΥΗΣ 
-
 ### ΚΥΚΛΩΜΑ 
+
+![03_ΟΚ_Seismos_bb](https://user-images.githubusercontent.com/40848626/57197829-92207180-6f74-11e9-9aeb-417d17077af1.jpg)
 
 ### ΦΩΤΟΓΡΑΦΙΕΣ 
 
@@ -145,6 +171,11 @@
 Το πρότζεκτ αυτό θα μπορούσε να χρησιμοποιηθεί ειδοποιώντας τους κατοίκους μιας πόλης (πχ μέσω μιας σειρήνας/συναγερμού) όταν υπάρχει επικίνδυνη σεισμική δραστηριότητα. 
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
+1. Nodemcu Datasheet
+https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
+
+2.Vibration Sensor MEAS 100 Datasheet
+https://www.sparkfun.com/datasheets/Sensors/Flex/MiniSense_100.pdf
 
 ## 04. Ε-Πρόσβαση σε πόρτες  με ηλεκτρομαγνητικές κάρτες 
 
@@ -168,9 +199,9 @@
 *Η ποσότητα αλλάζει ανάλογα με τον αριθμό του προσωπικού που θέλουμε να έχει πρόσβαση στις αίθουσες. </br>
 στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη 
 
-### ΥΛΟΠΟΙΗΣΗ ΚΑΤΑΣΚΕΥΗΣ 
-
 ### ΚΥΚΛΩΜΑ 
+
+![04_OK_Portes_bb](https://user-images.githubusercontent.com/40848626/57197830-92b90800-6f74-11e9-9399-79faa336cb66.jpg)
 
 ### ΦΩΤΟΓΡΑΦΙΕΣ 
 
@@ -199,6 +230,11 @@
 Το πρότζεκτ αυτό θα μπορούσε να χρησιμοποιηθεί από εταιρίες διευκολύνοντας την πρόσβαση σε γραφεία, αίθουσες και άλλες εγκαταστάσεις. Επιπλέον θα μπορούσε να έχει εφαρμογή στον τομέα της υγείας κάνοντας ευκολότερη την πρόσβαση (και έλεγχο) σε ιατρεία. 
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
+1. Nodemcu Datasheet
+https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
+
+2. RFID MFRC-522
+https://www.hwkitchen.cz/user/related_files/rc522-rfid-ctecka-klicenka-a-karta-rychly-start-pdf.pdf
 
 ## 05.Εξυπνοι καδοι απορριματων ή ανακύκλωσης μπαταριών 
 
@@ -220,6 +256,8 @@
 
 ### ΚΥΚΛΩΜΑ
 
+![05_OK_Skoupidia_bb](https://user-images.githubusercontent.com/40848626/57197831-93519e80-6f74-11e9-8bcd-4709d7fda68a.jpg)
+
 ### ΦΩΤΟΓΡΑΦΙΕΣ 
 
 ![p28_kadoi](https://user-images.githubusercontent.com/40848626/57193279-0988dd80-6f42-11e9-9ec2-6b03800acaa7.jpg)
@@ -235,6 +273,11 @@
 Το πρότζεκτ με τους έξυπνους κάδους μπορεί να χρησιμοποιηθεί από τους Δήμους για την πιο εύκολη και αποτελεσματική συγκομιδή των σκουπιδιών. ( Ο αρμόδιος φορέας συγκομιδής σκουπιδιών θα ενημερώνεται για το ποιοι κάδοι έχουν γεμίσει και ποιοί όχι άρα δε θα χρειάζεται ο φορέας αυτός να κάνει άσκοπες μετακινήσεις. Συνεπώς εξοικονομεί χρόνο και καύσιμα. Άρα και ο Δήμος θα ξοδεύει λιγότερα χρήματα) Μια επέκταση αυτού του πρότζεκτ είναι η τοποθέτηση συλλέκτη φωτός ώστε να αυτονομηθεί ο κάδος και να γίνει “εξυπνότερος” και με “οικολογική συνείδηση”! 
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
+1. Nodemcu Datasheet
+https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
+
+2.Ultrasonic HC-SR04 Datasheet
+https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 
 ## 06. Ρύθμιση φασαρίας στην τάξη 
 
@@ -257,9 +300,9 @@
 
 στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη 
 
-### ΥΛΟΠΟΙΗΣΗ ΚΑΤΑΣΚΕΥΗΣ 
-
 ### ΚΥΚΛΩΜΑ 
+
+![06_OK_fasaria_bb](https://user-images.githubusercontent.com/40848626/57197833-93ea3500-6f74-11e9-9ccc-8ff63641ff72.jpg)
 
 ### ΦΩΤΟΓΡΑΦΙΕΣ 
 
@@ -274,6 +317,8 @@
 Το πρότζεκτ αυτό θα μπορούσε να έχει επεκτάσεις στην μετρηση φασαριας στους δρόμους και μείωση της ηχορύπανσης. 
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
+1. Arduino Nano
+https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf
 
 ## 07. Ε-Απουσίες 
 
@@ -285,22 +330,20 @@
 |Περιγραφή|Ενδεικτική Εικόνα|Ποσότητα|Ενδεικτικό Κόστος (με ΦΠΑ)|
 | --- | --- | --- | ---|
 | NodeMCU Lolin v3 | ![Nodemcu_Lolin](https://user-images.githubusercontent.com/40848626/57192799-05a68c80-6f3d-11e9-9967-1a382de641c1.jpg) | 1 | 9,90€ |
-| Display 16X2 Character LCD 3.3V Blue |  ![LCD_16X2_Blue](https://user-images.githubusercontent.com/40848626/57192811-5f0ebb80-6f3d-11e9-820a-e4dc4aed4ac7.jpg) | 1 | 4.20€ |
-| I2C LCD Backpack for 1602 | ![lcd1602_i2c](https://user-images.githubusercontent.com/40848626/57192815-7188f500-6f3d-11e9-91bd-6310c2555edb.jpg) | 1 | 8,00€ |
 |Αναγνώστης NFC/RFID - MFRC-522 13.56MHz   | ![RFID_MFRC_522](https://user-images.githubusercontent.com/40848626/57193271-ed853c00-6f41-11e9-8a1c-aa006f56e48e.jpg) | 1 | 5.90€   |
 |Κάρτα RFID (13.56Mhz)   | ![RFID_Tag_(125kHz)](https://user-images.githubusercontent.com/40848626/57193749-6044e600-6f47-11e9-9de8-d99fd894092d.jpg) | 1* | 0,50€ |
 |LED 10mm Red  | ![LED_10mm_red](https://user-images.githubusercontent.com/40848626/57193746-558a5100-6f47-11e9-9653-25da8cc8d900.jpg) | 1 | 0.20€ |
 |LED 10mm Yellow |![LED_10mm_yellow](https://user-images.githubusercontent.com/40848626/57193747-5622e780-6f47-11e9-989c-c2873a436dc3.jpg) | 1 | 0.20€ |
 |Breadboard mini | ![breadboard_mini](https://user-images.githubusercontent.com/40848626/57192824-806fa780-6f3d-11e9-92fa-7371e7a49538.jpg) | 1 | 1.60€ |
 | Καλώδια σύνδεσης | - | - | 1,00€ |
-|  |  | Σύνολο | 31,30€ |
+|  |  | Σύνολο | 19,10€ |
 
 *Η ποσότητα αλλάζει ανάλογα με τον αριθμό των μαθητών που θέλουμε να έχει πρόσβαση στις Ε-Απουσίες.</br>
 στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη 
 
-### ΥΛΟΠΟΙΗΣΗ ΚΑΤΑΣΚΕΥΗΣ 
-
 ### ΚΥΚΛΩΜΑ 
+
+![07_OK_Apousies_bb](https://user-images.githubusercontent.com/40848626/57197834-93ea3500-6f74-11e9-8791-b10252ae8c68.jpg)
 
 ### ΦΩΤΟΓΡΑΦΙΕΣ 
 
@@ -320,13 +363,18 @@
 
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
+1. Nodemcu Datasheet
+https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
+
+2. RFID MFRC-522
+https://www.hwkitchen.cz/user/related_files/rc522-rfid-ctecka-klicenka-a-karta-rychly-start-pdf.pdf
 
 
 ## 08. Ε-Κουδούνι 
 
 ### ΠΕΡΙΛΗΨΗ 
 
-Στο έργο αυτό προσπαθήσαμε να ενσωματώσουμε τη τεχνολογία φωνητικών εντολών , μέσω του Alexa Echo Dot, στις δυνατότητες που έχει ένα Nodemcu. Σύμφωνα με το eMarketer, μέσα σε αυτό τον χρόνο υπολογίζεται πως πάνω από 25 εκατομμύρια Αμερικάνοι θα χρησιμοποιήσουν το συγκεκριμένο μηχάνημα (Echo Dot) τουλάχιστον μία φορά τον μήνα.  
+Στο έργο αυτό προσπαθήσαμε να ενσωματώσουμε τη τεχνολογία φωνητικών εντολών , μέσω του Alexa Echo Dot, στις δυνατότητες που έχει ένα Nodemcu.Έτσι μπορούμε να ενεργοποιήσουμε το κουδούνι μέσω φωνητικών εντολών. Σύμφωνα με το eMarketer, μέσα σε αυτό τον χρόνο υπολογίζεται πως πάνω από 25 εκατομμύρια Αμερικάνοι θα χρησιμοποιήσουν το συγκεκριμένο μηχάνημα (Echo Dot) τουλάχιστον μία φορά τον μήνα.  
 
 ### ΑΠΑΙΤΟΥΜΕΝΑ ΥΛΙΚΑ ΚΑΙ ΕΝΔΕΙΚΤΙΚΟ ΚΟΣΤΟΣ ΚΑΤΑΣΚΕΥΗΣ 
 
@@ -335,17 +383,17 @@
 | NodeMCU Lolin v3 | ![Nodemcu_Lolin](https://user-images.githubusercontent.com/40848626/57192799-05a68c80-6f3d-11e9-9967-1a382de641c1.jpg) | 1 | 9,90€ |
 | Relay Module - 1 Channel 5V Low Level Trigger  |  ![relay_SRD_5VDC](https://user-images.githubusercontent.com/40848626/57193847-67b8bf00-6f48-11e9-8ec0-3329d2c43b8f.jpg) | 1 | 1,50€ |
 | Κουδούνι με ήχο 80dB  | ![koudouni-me-icho-80db-12v-lefko-normal](https://user-images.githubusercontent.com/40848626/57193839-596aa300-6f48-11e9-9233-500ec2740a50.jpg) | 1* | 11.90€  |
-| Echo Dot (3rd Gen)  | ![GUEST_d0ed568d-e584-4bb5-9995-891975630a9d](https://user-images.githubusercontent.com/40848626/57193836-51aafe80-6f48-11e9-9cea-1000f6da5d24.jpg) | 1 |  |
+| Echo Dot (3rd Gen)  | ![GUEST_d0ed568d-e584-4bb5-9995-891975630a9d](https://user-images.githubusercontent.com/40848626/57193836-51aafe80-6f48-11e9-9cea-1000f6da5d24.jpg) | 1 | 46.36€  |
 |Breadboard mini | ![breadboard_mini](https://user-images.githubusercontent.com/40848626/57192824-806fa780-6f3d-11e9-92fa-7371e7a49538.jpg) | 1 | 1.60€ |
 | Καλώδια σύνδεσης | - | - | 1,00€ |
-|  |  | Σύνολο |  |
+|  |  | Σύνολο | 72,26€ |
 
  *Η ποσότητα αλλάζει ανάλογα με τον αριθμό διαφορετικών κουδουνιών που θέλουμε να χειριστούμε </br>
 στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη 
 
- ### ΥΛΟΠΟΙΗΣΗ ΚΑΤΑΣΚΕΥΗΣ 
-
 ### ΚΥΚΛΩΜΑ 
+
+![08_OK_Smart_koudouni_bb](https://user-images.githubusercontent.com/40848626/57197835-9482cb80-6f74-11e9-95ed-edd901260668.jpg)
 
 ### ΦΩΤΟΓΡΑΦΙΕΣ 
 
@@ -354,8 +402,11 @@
 ![p40_koudouni](https://user-images.githubusercontent.com/40848626/57193292-0d1c6480-6f42-11e9-8fe6-932dafaa07b2.JPG)
 
 ### ΕΠΕΚΤΑΣΕΙΣ 
+Το amazon echo θα μπορούσε να χρησιμοποιηθεί ενσωματώνοντας τις φωνητικές εντολές στο φωτισμό του σχολείου και κάνοντας τον έτσι εξυπνότερο. 
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
+
+![08_OK_Smart_koudouni_bb](https://user-images.githubusercontent.com/40848626/57197835-9482cb80-6f74-11e9-95ed-edd901260668.jpg)
 
 ## 0.9 Αυτόματο πότισμα γλαστρών 
 
@@ -380,9 +431,9 @@
 
 στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη 
 
-### ΥΛΟΠΟΙΗΣΗ ΚΑΤΑΣΚΕΥΗΣ 
-
 ### ΚΥΚΛΩΜΑ 
+
+![09_OK_potisma_bb](https://user-images.githubusercontent.com/40848626/57197836-9482cb80-6f74-11e9-8557-7493f38c5b58.jpg)
 
 ### ΦΩΤΟΓΡΑΦΙΕΣ 
 
@@ -403,6 +454,11 @@
 Το συγκεκριμένο πρότζεκτ θα μπορούσε να έχει εφαρμογή σε δημόσια πάρκα και κήπους πόλεων  
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
+1. Arduino Uno R3
+https://www.fecegypt.com/uploads/dataSheet/1522237550_arduino%20uno%20r3.pdf
+
+2. Moisture Sensor
+https://www.fecegypt.com/uploads/dataSheet/1480854383_water%20and%20soil.pdf
 
 
 ## 0.10 Ε-Φώτα Αιθουσών 
@@ -424,9 +480,8 @@
  *Η ποσότητα αλλάζει ανάλογα με τον αριθμό διαφορετικών κουδουνιών που θέλουμε να χειριστούμε </br>
 στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη 
 
- ### ΥΛΟΠΟΙΗΣΗ ΚΑΤΑΣΚΕΥΗΣ 
-
 ### ΚΥΚΛΩΜΑ 
+![10_OK_Fwta_bb](https://user-images.githubusercontent.com/40848626/57197837-9482cb80-6f74-11e9-9c66-c6209271e70a.jpg)
 
 ### ΦΩΤΟΓΡΑΦΙΕΣ 
 
@@ -441,6 +496,11 @@
 Χρησιμοποιώντας ένα photoresistor μπορούμε να φτιάξουμε ένα σύστημα το οποίο ανάλογα με την φωτεινότητα που υπάρχει στον εξωτερικό χώρο να ανοίγει τα φώτα των πόλεων με σκοπό την εξοικονόμηση ενέργειας 
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
+1. Nodemcu Datasheet
+https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
+
+2. Relay Module
+https://www.fecegypt.com/uploads/dataSheet/1522335312_relay%20module.pdf
 
 ## Η Ομάδα Ρομποτικής του 3ου Γενικού Λυκείου Τρίπολης
 
