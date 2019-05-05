@@ -47,7 +47,7 @@
 
 ### ΦΩΤΟΓΡΑΦΙΕΣ 
 
-![p1_diesel](https://user-images.githubusercontent.com/40848626/57192711-07bc1b80-6f3c-11e9-9391-ad0e8dd4fd22.jpg)
+![p1_diesel (2)](https://user-images.githubusercontent.com/40848626/57194468-fc72eb00-6f4f-11e9-9a24-858524f36832.jpg)
 
 ![p2_diesel](https://user-images.githubusercontent.com/40848626/57192960-f9233380-6f3e-11e9-87cb-7f0682fbeec5.jpg)
 
@@ -59,7 +59,7 @@
 
 ![p6_diesel](https://user-images.githubusercontent.com/40848626/57192837-99785880-6f3d-11e9-9e01-3170c232ba61.jpg)
 
-![p7_diesel](https://user-images.githubusercontent.com/40848626/57192838-99785880-6f3d-11e9-8142-c850f8572418.jpg)
+![p7_diesel (2)](https://user-images.githubusercontent.com/40848626/57194469-fd0b8180-6f4f-11e9-8631-5cbf64176ff6.jpg)
 
 ### ΕΠΕΚΤΑΣΕΙΣ 
 
@@ -150,6 +150,8 @@
 
 ![p15_seismos](https://user-images.githubusercontent.com/40848626/57193070-16a4cd00-6f40-11e9-9327-00160e6dfb94.jpg)
 
+![p16_seismos (2)](https://user-images.githubusercontent.com/40848626/57194471-fd0b8180-6f4f-11e9-83c4-132429612e37.jpg)
+
 ### ΕΠΕΚΤΑΣΕΙΣ 
 
 Το πρότζεκτ αυτό θα μπορούσε να χρησιμοποιηθεί ειδοποιώντας τους κατοίκους μιας πόλης (πχ μέσω μιας σειρήνας/συναγερμού) όταν υπάρχει επικίνδυνη σεισμική δραστηριότητα. 
@@ -190,11 +192,11 @@
 
 ![p17_portes](https://user-images.githubusercontent.com/40848626/57193276-fb3ac180-6f41-11e9-9e2c-ecced3c230e0.jpg)
 
-![p18_portes](https://user-images.githubusercontent.com/40848626/57193173-43a5af80-6f41-11e9-9f27-6379c6b6f142.jpg)
+![p18_portes (2)](https://user-images.githubusercontent.com/40848626/57194472-fda41800-6f4f-11e9-8855-2c7065843151.jpg)
 
 ![p19_portes](https://user-images.githubusercontent.com/40848626/57193174-43a5af80-6f41-11e9-9579-92201f3528d1.jpg)
 
-![p20_portes](https://user-images.githubusercontent.com/40848626/57193175-43a5af80-6f41-11e9-8076-87ddab2cc782.jpg)
+![p20_portes (2)](https://user-images.githubusercontent.com/40848626/57194473-fda41800-6f4f-11e9-8a64-14c93a3c5b3e.jpg)
 
 ![p21_portes](https://user-images.githubusercontent.com/40848626/57193176-443e4600-6f41-11e9-8614-05339bd31e31.jpg)
 
@@ -205,6 +207,8 @@
 ![p24_portes](https://user-images.githubusercontent.com/40848626/57193235-92534980-6f41-11e9-9ee7-f3fff824e954.jpg)
 
 ![p25_portes](https://user-images.githubusercontent.com/40848626/57193236-92ebe000-6f41-11e9-93c6-5434d52cff4b.jpg)
+
+![IMG_20190503_204602 (2)](https://user-images.githubusercontent.com/40848626/57194467-fc72eb00-6f4f-11e9-8772-d12882c51a29.jpg)
 
 ### ΕΠΕΚΤΑΣΕΙΣ 
 
@@ -336,7 +340,7 @@
 
 ![p37_apousies](https://user-images.githubusercontent.com/40848626/57193289-0c83ce00-6f42-11e9-8052-ec685885d1c9.jpg)
 
-![p38_apousies](https://user-images.githubusercontent.com/40848626/57193290-0c83ce00-6f42-11e9-9b2b-9bc02b39066d.jpg)
+![p38_apousies (2)](https://user-images.githubusercontent.com/40848626/57194474-fed54500-6f4f-11e9-9289-96fb84c7c133.jpg)
 
 ### ΕΠΕΚΤΑΣΕΙΣ 
 
