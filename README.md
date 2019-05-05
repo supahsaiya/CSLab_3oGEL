@@ -385,3 +385,55 @@
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
 
+## 0.9 Αυτόματο πότισμα γλαστρών 
+
+### ΠΕΡΙΛΗΨΗ 
+
+Ο αισθητήρας που βρίσκεται τοποθετημένος στις γλάστρες των φυτών που επιθυμούμε να ποτίσουμε ανιχνεύει την υγρασία του χώματος. Το σύστημα έχει δύο δυνατότητες. Σε περίπτωση που η τιμή της υγρασίας είναι κατώτερη του επιθυμητού επιπέδου, επιτρέπει την παροχή νερού στα φυτά μέσω μιας αντλίας, η οποία βρίσκεται συνδεδεμένη σε πηγή νερού. Σε αντίθετη περίπτωση διατηρεί την αρχική του κατάσταση χωρίς να προχωρήσει στην εκτέλεση κάποιας εντολής.  
+
+### ΑΠΑΙΤΟΥΜΕΝΑ ΥΛΙΚΑ ΚΑΙ ΕΝΔΕΙΚΤΙΚΟ ΚΟΣΤΟΣ ΚΑΤΑΣΚΕΥΗΣ 
+
+|Περιγραφή|Ενδεικτική Εικόνα|Ποσότητα|Ενδεικτικό Κόστος (με ΦΠΑ)|
+| --- | --- | --- | ---|
+| Arduino Uno R3  | ![arduino_uno_rev3](https://user-images.githubusercontent.com/40848626/57194225-f2032200-6f4c-11e9-973e-aecf3d6efa3c.jpg)
+) | 1 | 11,90€  |
+| Αισθητήρας Υγρασίας Εδάφους |  ![soil-hygrometer](https://user-images.githubusercontent.com/40848626/57193963-b1ee7000-6f49-11e9-9027-e780dd14fccc.jpg) | 1 | 1.90€  |
+| Liquid Pump Motor - Micro 12V |![Liquid_pump_motor_12v](https://user-images.githubusercontent.com/40848626/57193958-a8fd9e80-6f49-11e9-81ea-b1e9d78ea7c9.jpg) | 1 | 3,90€ |
+| Silicone Tube Transparent 2x4mm - per meter |![Silicone_tube](https://user-images.githubusercontent.com/40848626/57193961-b1ee7000-6f49-11e9-9c84-c5b58cafab85.jpg)| 1 | 0.60€ |
+| Transistor Darlington NPN 5A - TIP120 | ![tip120](https://user-images.githubusercontent.com/40848626/57193964-b2870680-6f49-11e9-8eee-3b1edc10db1f.jpg)| 1 | 0.50€ |
+| Diode Rectifier - 1A 400V 1N4004 | ![diode_1N4004](https://user-images.githubusercontent.com/40848626/57193973-b7e45100-6f49-11e9-8a0d-5c1ba2cc953d.jpg) | 1 | 0.025€ |
+| 1 KΩ Resistor | ![1kohm](https://user-images.githubusercontent.com/40848626/57194273-b157d880-6f4d-11e9-9e75-c5b79de5a146.jpg) | 1 | 0.01€ |
+|Breadboard mini | ![breadboard_mini](https://user-images.githubusercontent.com/40848626/57192824-806fa780-6f3d-11e9-92fa-7371e7a49538.jpg) | 1 | 1.60€ |
+| Καλώδια σύνδεσης | - | - | 1,00€ |
+|  |  | Σύνολο | 21,435€  |
+
+στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη 
+
+### ΥΛΟΠΟΙΗΣΗ ΚΑΤΑΣΚΕΥΗΣ 
+
+### ΚΥΚΛΩΜΑ 
+
+### ΚΩΔΙΚΑΣ 
+
+### ΑΠΑΙΤΟΥΜΕΝΕΣ ΒΙΒΛΙΟΘΗΚΕΣ 
+
+### ΦΩΤΟΓΡΑΦΙΕΣ 
+
+![p41_potisma](https://user-images.githubusercontent.com/40848626/57193293-0d1c6480-6f42-11e9-94ed-f25482fb8c81.jpg)
+
+![p42_potisma](https://user-images.githubusercontent.com/40848626/57193295-0db4fb00-6f42-11e9-98e1-77492c6a8443.jpg)
+
+![p43_potisma](https://user-images.githubusercontent.com/40848626/57193296-0e4d9180-6f42-11e9-9f5f-e4a865c9505c.jpg)
+
+![p44_potisma](https://user-images.githubusercontent.com/40848626/57193297-0ee62800-6f42-11e9-9591-557f4e8d433f.jpg)
+
+![p45_potisma](https://user-images.githubusercontent.com/40848626/57193298-0ee62800-6f42-11e9-8cdd-ddd7718e03fa.jpg)
+
+![p46_potisma](https://user-images.githubusercontent.com/40848626/57193299-0f7ebe80-6f42-11e9-9c6b-d91e3ab34672.jpg)
+
+### ΕΠΕΚΤΑΣΕΙΣ 
+
+Το συγκεκριμένο πρότζεκτ θα μπορούσε να έχει εφαρμογή σε δημόσια πάρκα και κήπους πόλεων  
+
+### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
+
