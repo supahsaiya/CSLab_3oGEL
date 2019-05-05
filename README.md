@@ -242,8 +242,6 @@
 
 ![p29_kadoi](https://user-images.githubusercontent.com/40848626/57193280-0a217400-6f42-11e9-856d-02487f51a49b.jpg)
 
-![p30_kadoi](https://user-images.githubusercontent.com/40848626/57193281-0a217400-6f42-11e9-876d-03b6de989864.jpg)
-
 ![p26_kadoi](https://user-images.githubusercontent.com/40848626/57193432-9aac8400-6f43-11e9-8967-e7d1e7a8ec31.jpg)
 
 ![p27_kadoi](https://user-images.githubusercontent.com/40848626/57193433-9aac8400-6f43-11e9-99c1-1a607dc58ddd.jpg)
@@ -297,3 +295,52 @@
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
 
+## 07. Ε-Απουσίες 
+
+### ΠΕΡΙΛΗΨΗ 
+
+Το MFRC522 RFID Reader θα μπορεί να ανιχνεύει, μέσω του ανέπαφου περάσματος των RFID Tags των μαθητών, το όνομα και την ώρα προσέλευσης τους, τα οποία στη συνέχεια θα εμφανίζονται στην ηλεκτρονική βάση δεδομένων που έχει δημιουργηθεί. Αν η κάρτα του μαθητή είναι έγκυρη ένα LED φωτάκι ανάβει το οποίο σημαίνει την επιτυχή αναγνώρισή του από το σύστημα. Για το συγκεκριμένο πρότζεκτ χρησιμοποιήθηκε πλακέτα NodeMCU.  
+
+### ΑΠΑΙΤΟΥΜΕΝΑ ΥΛΙΚΑ ΚΑΙ ΕΝΔΕΙΚΤΙΚΟ ΚΟΣΤΟΣ ΚΑΤΑΣΚΕΥΗΣ 
+|Περιγραφή|Ενδεικτική Εικόνα|Ποσότητα|Ενδεικτικό Κόστος (με ΦΠΑ)|
+| --- | --- | --- | ---|
+| NodeMCU Lolin v3 | ![Nodemcu_Lolin](https://user-images.githubusercontent.com/40848626/57192799-05a68c80-6f3d-11e9-9967-1a382de641c1.jpg) | 1 | 9,90€ |
+| Display 16X2 Character LCD 3.3V Blue |  ![LCD_16X2_Blue](https://user-images.githubusercontent.com/40848626/57192811-5f0ebb80-6f3d-11e9-820a-e4dc4aed4ac7.jpg) | 1 | 4.20€ |
+| I2C LCD Backpack for 1602 | ![lcd1602_i2c](https://user-images.githubusercontent.com/40848626/57192815-7188f500-6f3d-11e9-91bd-6310c2555edb.jpg) | 1 | 8,00€ |
+|Αναγνώστης NFC/RFID - MFRC-522 13.56MHz   | ![RFID_MFRC_522](https://user-images.githubusercontent.com/40848626/57193271-ed853c00-6f41-11e9-8a1c-aa006f56e48e.jpg) | 1 | 5.90€   |
+|Κάρτα RFID (13.56Mhz)   | ![RFID_Tag_(125kHz)](https://user-images.githubusercontent.com/40848626/57193749-6044e600-6f47-11e9-9de8-d99fd894092d.jpg) | 1* | 0,50€ |
+|LED 10mm Red  | ![LED_10mm_red](https://user-images.githubusercontent.com/40848626/57193746-558a5100-6f47-11e9-9653-25da8cc8d900.jpg) | 1 | 0.20€ |
+|LED 10mm Yellow |![LED_10mm_yellow](https://user-images.githubusercontent.com/40848626/57193747-5622e780-6f47-11e9-989c-c2873a436dc3.jpg) | 1 | 0.20€ |
+|Breadboard mini | ![breadboard_mini](https://user-images.githubusercontent.com/40848626/57192824-806fa780-6f3d-11e9-92fa-7371e7a49538.jpg) | 1 | 1.60€ |
+| Καλώδια σύνδεσης | - | - | 1,00€ |
+|  |  | Σύνολο | 31,30€ |
+
+*Η ποσότητα αλλάζει ανάλογα με τον αριθμό των μαθητών που θέλουμε να έχει πρόσβαση στις Ε-Απουσίες.</br>
+στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη 
+
+### ΥΛΟΠΟΙΗΣΗ ΚΑΤΑΣΚΕΥΗΣ 
+
+### ΚΥΚΛΩΜΑ 
+
+### ΚΩΔΙΚΑΣ 
+
+### ΑΠΑΙΤΟΥΜΕΝΕΣ ΒΙΒΛΙΟΘΗΚΕΣ 
+
+### ΦΩΤΟΓΡΑΦΙΕΣ 
+
+![p34_apousies](https://user-images.githubusercontent.com/40848626/57193285-0beb3780-6f42-11e9-9517-7ffb35c7930f.jpg)
+
+![p35_apousies](https://user-images.githubusercontent.com/40848626/57193287-0beb3780-6f42-11e9-82a2-28cb67b8c417.jpg)
+
+![p36_apousies](https://user-images.githubusercontent.com/40848626/57193288-0c83ce00-6f42-11e9-89f3-b1f064e8d59a.jpg)
+
+![p37_apousies](https://user-images.githubusercontent.com/40848626/57193289-0c83ce00-6f42-11e9-8052-ec685885d1c9.jpg)
+
+![p38_apousies](https://user-images.githubusercontent.com/40848626/57193290-0c83ce00-6f42-11e9-9b2b-9bc02b39066d.jpg)
+
+### ΕΠΕΚΤΑΣΕΙΣ 
+
+το συγκεκριμένο project θα μπορούσε να προσαρμοστεί έτσι ώστε οι δημόσιες εταιρείες να έχουν τη δυνατότητα ελέγχου των υπαλλήλων στο θέμα άφιξης-αποχώρησης από τον εργασιακό χώρο 
+
+
+### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
