@@ -53,7 +53,7 @@
 
 ![p3_diesel](https://user-images.githubusercontent.com/40848626/57192834-98dfc200-6f3d-11e9-9e46-b367ac924a66.jpg)
 
-![p4_diesel](https://user-images.githubusercontent.com/40848626/57192835-98dfc200-6f3d-11e9-8f0b-73be5426fbd9.jpg)
+![p4_diesel (2)](https://user-images.githubusercontent.com/40848626/57194608-78b9fe00-6f51-11e9-8f5c-263e7a7e1bb2.jpg)
 
 ![p5_diesel](https://user-images.githubusercontent.com/40848626/57192836-98dfc200-6f3d-11e9-8988-7b16eef1f720.jpg)
 
@@ -198,11 +198,11 @@
 
 ![p20_portes (2)](https://user-images.githubusercontent.com/40848626/57194473-fda41800-6f4f-11e9-8a64-14c93a3c5b3e.jpg)
 
-![p21_portes](https://user-images.githubusercontent.com/40848626/57193176-443e4600-6f41-11e9-8614-05339bd31e31.jpg)
+![p21_portes (2)](https://user-images.githubusercontent.com/40848626/57194609-78b9fe00-6f51-11e9-87a4-aa8569bf90bb.jpg)
 
 ![p22_portes](https://user-images.githubusercontent.com/40848626/57193177-443e4600-6f41-11e9-9201-eac1d571d671.jpg)
 
-![p23_portes](https://user-images.githubusercontent.com/40848626/57193234-92534980-6f41-11e9-81a2-55e9dea8f46d.jpg)
+![p23_portes (2)](https://user-images.githubusercontent.com/40848626/57194610-78b9fe00-6f51-11e9-9b3e-ad409dea1cdf.jpg)
 
 ![p24_portes](https://user-images.githubusercontent.com/40848626/57193235-92534980-6f41-11e9-9ee7-f3fff824e954.jpg)
 
@@ -248,7 +248,7 @@
 
 ![p26_kadoi](https://user-images.githubusercontent.com/40848626/57193432-9aac8400-6f43-11e9-8967-e7d1e7a8ec31.jpg)
 
-![p27_kadoi](https://user-images.githubusercontent.com/40848626/57193433-9aac8400-6f43-11e9-99c1-1a607dc58ddd.jpg)
+![p27_kadoi (2)](https://user-images.githubusercontent.com/40848626/57194611-79529480-6f51-11e9-8ad8-9e154a7edfde.jpg)
 
 ### ΕΠΕΚΤΑΣΕΙΣ 
 
@@ -470,9 +470,9 @@
 
 ### ΦΩΤΟΓΡΑΦΙΕΣ 
 
-![p47_fwta](https://user-images.githubusercontent.com/40848626/57193300-0f7ebe80-6f42-11e9-8c8b-a0bececb2963.jpg)
+![p47_fwta (2)](https://user-images.githubusercontent.com/40848626/57194612-79529480-6f51-11e9-9090-f7c29a0efe5d.jpg)
 
-![p48_fwta](https://user-images.githubusercontent.com/40848626/57193301-10175500-6f42-11e9-8a32-c0e5fc774c08.jpg)
+![p48_fwta (2)](https://user-images.githubusercontent.com/40848626/57194613-79eb2b00-6f51-11e9-9baf-793bbd05334e.jpg)
 
 ![p49_fwta](https://user-images.githubusercontent.com/40848626/57193302-10afeb80-6f42-11e9-98c0-4232cb93918c.jpg)
 
