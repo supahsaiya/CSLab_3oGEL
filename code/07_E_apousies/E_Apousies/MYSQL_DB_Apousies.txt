@@ -1,0 +1,20 @@
+CREATE TABLE `tbl_apousies` (
+  `student_id` int(11) AUTO_INCREMENT,
+  `student_AM` varchar(5) DEFAULT NULL,
+  `student_RFIDno` varchar(15) DEFAULT NULL,
+  `student_surname` varchar(50) DEFAULT NULL,
+  `student_fname` varchar(50) DEFAULT NULL,
+  `student_tmima` varchar(10) DEFAULT NULL,
+  `student_year` int(11),
+  `student_month` int(11),
+  `student_day` int(11),
+  `student_hour` int(11),
+  `student_min` int(11),
+  `student_sec` int(11),
+  `student_ts` TIMESTAMP DEFAULT CURRENT_TIMESTAMP,	
+  `remarks` varchar(500) DEFAULT NULL,
+  PRIMARY KEY (`student_id`)
+);
+
+
+DROP TABLE tbl_apousies

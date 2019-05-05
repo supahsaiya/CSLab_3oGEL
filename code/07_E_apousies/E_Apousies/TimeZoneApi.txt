@@ -1,0 +1,16 @@
+Hi XXXXXX,
+
+You just registered with TimeZoneDB. Please follow this link to activate your account.
+
+http://timezonedb.com/activate?user=xxxxx&code=xxxxxxx
+
+Username : xxxxxxx
+API Key  : xxxxxxx
+
+For more information of how to use our API, please refer to:
+http://timezonedb.com/api
+
+
+
+Thanks,
+The TimeZoneDB Team
