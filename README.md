@@ -39,7 +39,7 @@
 | Καλώδια σύνδεσης | - | - | 1,00€ |
 |  |  | Σύνολο | 37,1€ |
 
-στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη 
+στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη </br>
 <b> για το συγκεκριμένο έργο χρησιμοποιήσαμε 2 NodeMCU ως server και client,συνεπώς υπάρχουν δύο διαφορετικοί κώδικες.</b>
 ### ΚΥΚΛΩΜΑ
 
@@ -73,10 +73,10 @@
 Το προτζεκτ αυτό θα μπορούσε να χρησιμοποιηθεί σε δημόσιες και ιδιωτικές υπηρεσίες εξοικονομώντας χρόνο και κάνοντας ευκολότερο τον προγραμματισμό των εξόδων της εταιρίας (πχ για ανεφοδιασμό πετρελαίου).  
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
-1. Nodemcu Datasheet
+1. Nodemcu Datasheet</br>
 https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
 
-2.Ultrasonic HC-SR04 Datasheet
+2.Ultrasonic HC-SR04 Datasheet</br>
 https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 
 ## 02. Απεικόνιση θερμοκρασίας και υγρασίας εξωτερικού και εσωτερικού χώρου 
@@ -98,7 +98,7 @@ https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 | Καλώδια σύνδεσης | - | - | 1,00€ |
 |  |  | Σύνολο | 40,30€  |
 
-στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη 
+στο κόστος πρέπει να συμπεριλάβουμε κόστος για τροφοδοσία του Nodemcu, αλλά επειδή υπάρχουν τόσοι διαφορετικοί τρόποι δεν το αναφέρουμε παραπάνω και το αφήνουμε ως επιλογή στο χρήστη </br>
 <b> για το συγκεκριμένο έργο χρησιμοποιήσαμε 2 NodeMCU ως server και client,συνεπώς υπάρχουν δύο διαφορετικοί κώδικες.</b>
 
 ### ΚΥΚΛΩΜΑ 
@@ -124,10 +124,10 @@ https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 Το συγκεκριμένο προτζεκτ θα μπορούσε να χρησιμοποιηθεί σε συνδυασμό με το amazon echo ενημερώνοντας τον χρήστη οποιαδήποτε στιγμή για το επίπεδο υγρασίας και τη θερμοκρασία σε κάποιο απομονωμένο χώρο  
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
-1. Nodemcu Datasheet
+1. Nodemcu Datasheet</br>
 https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
 
-2. DHT11 Datasheet
+2. DHT11 Datasheet</br>
 https://cdn-learn.adafruit.com/downloads/pdf/dht.pdf
 
 
@@ -171,10 +171,10 @@ https://cdn-learn.adafruit.com/downloads/pdf/dht.pdf
 Το πρότζεκτ αυτό θα μπορούσε να χρησιμοποιηθεί ειδοποιώντας τους κατοίκους μιας πόλης (πχ μέσω μιας σειρήνας/συναγερμού) όταν υπάρχει επικίνδυνη σεισμική δραστηριότητα. 
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
-1. Nodemcu Datasheet
+1. Nodemcu Datasheet</br>
 https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
 
-2.Vibration Sensor MEAS 100 Datasheet
+2.Vibration Sensor MEAS 100 Datasheet</br>
 https://www.sparkfun.com/datasheets/Sensors/Flex/MiniSense_100.pdf
 
 ## 04. Ε-Πρόσβαση σε πόρτες  με ηλεκτρομαγνητικές κάρτες 
@@ -230,10 +230,10 @@ https://www.sparkfun.com/datasheets/Sensors/Flex/MiniSense_100.pdf
 Το πρότζεκτ αυτό θα μπορούσε να χρησιμοποιηθεί από εταιρίες διευκολύνοντας την πρόσβαση σε γραφεία, αίθουσες και άλλες εγκαταστάσεις. Επιπλέον θα μπορούσε να έχει εφαρμογή στον τομέα της υγείας κάνοντας ευκολότερη την πρόσβαση (και έλεγχο) σε ιατρεία. 
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
-1. Nodemcu Datasheet
+1. Nodemcu Datasheet</br>
 https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
 
-2. RFID MFRC-522
+2. RFID MFRC-522</br>
 https://www.hwkitchen.cz/user/related_files/rc522-rfid-ctecka-klicenka-a-karta-rychly-start-pdf.pdf
 
 ## 05.Εξυπνοι καδοι απορριματων ή ανακύκλωσης μπαταριών 
@@ -273,10 +273,10 @@ https://www.hwkitchen.cz/user/related_files/rc522-rfid-ctecka-klicenka-a-karta-r
 Το πρότζεκτ με τους έξυπνους κάδους μπορεί να χρησιμοποιηθεί από τους Δήμους για την πιο εύκολη και αποτελεσματική συγκομιδή των σκουπιδιών. ( Ο αρμόδιος φορέας συγκομιδής σκουπιδιών θα ενημερώνεται για το ποιοι κάδοι έχουν γεμίσει και ποιοί όχι άρα δε θα χρειάζεται ο φορέας αυτός να κάνει άσκοπες μετακινήσεις. Συνεπώς εξοικονομεί χρόνο και καύσιμα. Άρα και ο Δήμος θα ξοδεύει λιγότερα χρήματα) Μια επέκταση αυτού του πρότζεκτ είναι η τοποθέτηση συλλέκτη φωτός ώστε να αυτονομηθεί ο κάδος και να γίνει “εξυπνότερος” και με “οικολογική συνείδηση”! 
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
-1. Nodemcu Datasheet
+1. Nodemcu Datasheet</br>
 https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
 
-2.Ultrasonic HC-SR04 Datasheet
+2.Ultrasonic HC-SR04 Datasheet</br>
 https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 
 ## 06. Ρύθμιση φασαρίας στην τάξη 
@@ -317,7 +317,7 @@ https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 Το πρότζεκτ αυτό θα μπορούσε να έχει επεκτάσεις στην μετρηση φασαριας στους δρόμους και μείωση της ηχορύπανσης. 
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
-1. Arduino Nano
+1. Arduino Nano</br>
 https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf
 
 ## 07. Ε-Απουσίες 
@@ -363,10 +363,10 @@ https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf
 
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
-1. Nodemcu Datasheet
+1. Nodemcu Datasheet</br>
 https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
 
-2. RFID MFRC-522
+2. RFID MFRC-522</br>
 https://www.hwkitchen.cz/user/related_files/rc522-rfid-ctecka-klicenka-a-karta-rychly-start-pdf.pdf
 
 
@@ -406,7 +406,11 @@ https://www.hwkitchen.cz/user/related_files/rc522-rfid-ctecka-klicenka-a-karta-r
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
 
-![08_OK_Smart_koudouni_bb](https://user-images.githubusercontent.com/40848626/57197835-9482cb80-6f74-11e9-95ed-edd901260668.jpg)
+1. Nodemcu Datasheet</br>
+https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
+2. Relay Module</br>
+https://www.fecegypt.com/uploads/dataSheet/1522335312_relay%20module.pdf
+
 
 ## 0.9 Αυτόματο πότισμα γλαστρών 
 
@@ -454,10 +458,10 @@ https://www.hwkitchen.cz/user/related_files/rc522-rfid-ctecka-klicenka-a-karta-r
 Το συγκεκριμένο πρότζεκτ θα μπορούσε να έχει εφαρμογή σε δημόσια πάρκα και κήπους πόλεων  
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
-1. Arduino Uno R3
+1. Arduino Uno R3</br>
 https://www.fecegypt.com/uploads/dataSheet/1522237550_arduino%20uno%20r3.pdf
 
-2. Moisture Sensor
+2. Moisture Sensor</br>
 https://www.fecegypt.com/uploads/dataSheet/1480854383_water%20and%20soil.pdf
 
 
@@ -496,10 +500,10 @@ https://www.fecegypt.com/uploads/dataSheet/1480854383_water%20and%20soil.pdf
 Χρησιμοποιώντας ένα photoresistor μπορούμε να φτιάξουμε ένα σύστημα το οποίο ανάλογα με την φωτεινότητα που υπάρχει στον εξωτερικό χώρο να ανοίγει τα φώτα των πόλεων με σκοπό την εξοικονόμηση ενέργειας 
 
 ### ΣΧΕΤΙΚΟΙ ΣΥΝΔΕΣΜΟΙ 
-1. Nodemcu Datasheet
+1. Nodemcu Datasheet</br>
 https://www.handsontec.com/pdf_learn/esp8266-V10.pdf
 
-2. Relay Module
+2. Relay Module</br>
 https://www.fecegypt.com/uploads/dataSheet/1522335312_relay%20module.pdf
 
 ## Η Ομάδα Ρομποτικής του 3ου Γενικού Λυκείου Τρίπολης
@@ -513,13 +517,13 @@ https://www.fecegypt.com/uploads/dataSheet/1522335312_relay%20module.pdf
 Βέργου Παναγιώτα</br> 
 Γεωργακόπουλος Γιώργος</br> 
 Γιαννόπουλος Γιώργος</br> 
-Γκάνιος Αθανάσιος</br> 
+Γκάνιος Θανάσης</br> 
 Γκουσιάκη Έρη</br> 
-Κιτσοπούλου Αικατερίνη</br> 
+Κιτσοπούλου Κάτια</br> 
 Κιτσοπούλου Δήμητρα</br> 
-Μαυρόγιαννης Αναστάσιος</br> 
+Μαυρόγιαννης Αναστάσης</br> 
 Μητσόπουλος Αργύρης</br> 
-Μπόγρης Ευάγγελος</br>
+Μπόγρης Βαγγέλης</br>
 Σακελλαριάδη Ελένη</br> 
 Σούχλας Σπύρος</br> 
 Τρικάτσουλα Νικολέτα</br> 
