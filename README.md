@@ -395,8 +395,7 @@
 
 |Περιγραφή|Ενδεικτική Εικόνα|Ποσότητα|Ενδεικτικό Κόστος (με ΦΠΑ)|
 | --- | --- | --- | ---|
-| Arduino Uno R3  | ![arduino_uno_rev3](https://user-images.githubusercontent.com/40848626/57194225-f2032200-6f4c-11e9-973e-aecf3d6efa3c.jpg)
-) | 1 | 11,90€  |
+| Arduino Uno R3  | ![arduino_uno_rev3](https://user-images.githubusercontent.com/40848626/57194225-f2032200-6f4c-11e9-973e-aecf3d6efa3c.jpg) | 1 | 11,90€  |
 | Αισθητήρας Υγρασίας Εδάφους |  ![soil-hygrometer](https://user-images.githubusercontent.com/40848626/57193963-b1ee7000-6f49-11e9-9027-e780dd14fccc.jpg) | 1 | 1.90€  |
 | Liquid Pump Motor - Micro 12V |![Liquid_pump_motor_12v](https://user-images.githubusercontent.com/40848626/57193958-a8fd9e80-6f49-11e9-81ea-b1e9d78ea7c9.jpg) | 1 | 3,90€ |
 | Silicone Tube Transparent 2x4mm - per meter |![Silicone_tube](https://user-images.githubusercontent.com/40848626/57193961-b1ee7000-6f49-11e9-9c84-c5b58cafab85.jpg)| 1 | 0.60€ |
@@ -419,7 +418,7 @@
 
 ### ΦΩΤΟΓΡΑΦΙΕΣ 
 
-![p41_potisma](https://user-images.githubusercontent.com/40848626/57193293-0d1c6480-6f42-11e9-94ed-f25482fb8c81.jpg)
+![p41_potisma (2)](https://user-images.githubusercontent.com/40848626/57194344-5c689200-6f4e-11e9-9f9c-7b0a0c320fb0.jpg)
 
 ![p42_potisma](https://user-images.githubusercontent.com/40848626/57193295-0db4fb00-6f42-11e9-98e1-77492c6a8443.jpg)
 
